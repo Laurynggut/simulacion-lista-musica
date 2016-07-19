@@ -1,0 +1,13 @@
+jsonCallback([{
+	"name": "Laura",
+	"password": "toystory"
+}, {
+	"name": "Leticia",
+	"password": "chema"
+}, {
+	"name": "Xisco",
+	"password": "bicis"
+}, {
+	"name": "Capi",
+	"password": "tan"
+}])

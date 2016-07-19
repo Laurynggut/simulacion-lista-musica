@@ -1,0 +1,42 @@
+html {
+
+	background-color: #CC99FF;
+	height: 100%;
+	width: 100%;
+}
+
+
+form{
+	margin-left: 700px;
+    margin-top: 60px;
+}
+input {
+	text-align: center;
+	border-radius: 10px;
+	font-size: 18px;
+	
+}
+.container input{
+	height: 35px;
+    width: 350px;
+}
+button{
+	border-radius: 20px;
+	font-size: 18px;
+	margin-left: 120px;
+	height: 35px;
+    width: 120px;
+}
+.photo{
+	height: 100%;
+	width: 100%;
+	opacity: 0.2;
+	margin-top: -1138px;
+}
+.central{
+    margin-left: 401px;
+    width: 50%;
+    margin-top: 54px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
